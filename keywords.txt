@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ LCD12864R   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+LCD12864R  KEYWORD2
+Initialise  KEYWORD2
+Clear  KEYWORD2
+DisplayString  KEYWORD2
+DisplaySig  KEYWORD2
+DrawFullScreen  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
